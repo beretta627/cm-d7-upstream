@@ -1,4 +1,4 @@
-Drupal 7.xx, xxxx-xx-xx (development version)
+Drupal 7.xx, xxxx-xx-xx (development version) - Just a Simple Edit
 -----------------------
 
 Drupal 7.67, 2019-05-08
